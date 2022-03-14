@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/discussion-panel/static/css/main.15a3fbc4.css",
-    "main.js": "/discussion-panel/static/js/main.a731849f.js",
+    "main.css": "/discussion-panel/static/css/main.b31bdc9e.css",
+    "main.js": "/discussion-panel/static/js/main.2f86d3c5.js",
     "static/js/787.85a14c33.chunk.js": "/discussion-panel/static/js/787.85a14c33.chunk.js",
     "static/media/REF_ONLY_final-artwork.png": "/discussion-panel/static/media/REF_ONLY_final-artwork.a48c6695c60fd8e7192a.png",
     "static/media/background-dashboard.png": "/discussion-panel/static/media/background-dashboard.831b38652135761cb4b5.png",
@@ -10,12 +10,12 @@
     "static/media/REF_ONLY_discussions-panel.png": "/discussion-panel/static/media/REF_ONLY_discussions-panel.3789e485cbc1e79d3a1c.png",
     "static/media/profile2.jpg": "/discussion-panel/static/media/profile2.2b71e2bd4afda19e397f.jpg",
     "index.html": "/discussion-panel/index.html",
-    "main.15a3fbc4.css.map": "/discussion-panel/static/css/main.15a3fbc4.css.map",
-    "main.a731849f.js.map": "/discussion-panel/static/js/main.a731849f.js.map",
+    "main.b31bdc9e.css.map": "/discussion-panel/static/css/main.b31bdc9e.css.map",
+    "main.2f86d3c5.js.map": "/discussion-panel/static/js/main.2f86d3c5.js.map",
     "787.85a14c33.chunk.js.map": "/discussion-panel/static/js/787.85a14c33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15a3fbc4.css",
-    "static/js/main.a731849f.js"
+    "static/css/main.b31bdc9e.css",
+    "static/js/main.2f86d3c5.js"
   ]
 }
