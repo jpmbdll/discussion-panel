@@ -1,0 +1,12 @@
+.avatar_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.avatar_container > img {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}

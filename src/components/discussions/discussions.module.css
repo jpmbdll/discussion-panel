@@ -1,0 +1,63 @@
+.headerActions {
+  padding: 10px;
+  background-color: #ffffff;
+  vertical-align: center;
+  font-size: 15px;
+}
+
+.headerActions svg {
+  cursor: pointer;
+  margin-right: 10px;
+  color: #7e8da7;
+  font-weight: bold;
+}
+
+.headerActions svg:nth-child(1),
+.headerActions svg:nth-child(2) {
+  float: left;
+}
+
+.headerActions svg:nth-child(3) {
+  float: right;
+  margin: 0;
+}
+
+.headerField {
+  display: flex;
+  background-color: #ffffff;
+  padding: 5px 10px;
+}
+
+.discussion_container {
+  overflow-y: auto;
+}
+
+.discussion_container::-webkit-scrollbar {
+  width: 3px;
+}
+
+.discussion_container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.discussion_container::-webkit-scrollbar-thumb {
+  background: #b4b7bd;
+}
+
+.discussion_container::-webkit-scrollbar-thumb:hover {
+  background: #b4b7bd;
+}
+
+.profileAvatar_img > img {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.noPosts_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}

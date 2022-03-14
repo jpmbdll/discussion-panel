@@ -1,0 +1,42 @@
+body {
+  background-image: url('./assets/background-dashboard.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.open_btn {
+  background-color: #1465ff;
+  border: none;
+  border-radius: 40px;
+  color: #ffffff !important;
+  cursor: pointer;
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  line-height: 10px;
+}
+
+.open_btn:hover {
+  background-color: #1356d5;
+}
+
+.hidden {
+  display: none;
+}
+
+hr {
+  background-color: #e5e9f1;
+  margin: 0;
+  border: none;
+  height: 2px;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}

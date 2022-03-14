@@ -1,0 +1,13 @@
+.text {
+  border: 1px solid #e5e9f1;
+  width: 100%;
+  border-radius: 8px;
+  min-height: 35px;
+  margin: 0;
+  padding: 0 10px;
+}
+
+.text:focus {
+  outline: none !important;
+  box-shadow: 0;
+}

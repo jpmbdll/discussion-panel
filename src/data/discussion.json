@@ -1,0 +1,53 @@
+{
+  "discussions": [
+    {
+      "id": 1,
+      "fullName": "Katya Araneta",
+      "publishedDate": "May 20th 8:00pm",
+      "message": "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ",
+      "isPublic": true,
+      "hasBookmark": true,
+      "hasSnapshot": false,
+      "img": "profile3",
+      "actions": {
+        "replies": 1,
+        "reacts": 23,
+        "shares": 24,
+        "starred": false
+      }
+    },
+    {
+      "id": 2,
+      "fullName": "James Paul",
+      "publishedDate": "Oct 8th 2:11pm",
+      "message": "This model has overheating issues due to faulty fans",
+      "isPublic": true,
+      "hasBookmark": true,
+      "hasSnapshot": true,
+      "snapshot": "background-dashboard.png",
+      "img": "profile4",
+      "actions": {
+        "replies": 1,
+        "reacts": 23,
+        "shares": 24,
+        "starred": true
+      }
+    },
+    {
+      "id": 3,
+      "fullName": "Linda Heart",
+      "publishedDate": "Dec 29th 1:00am",
+      "message": "This model has overheating issues due to faulty fans",
+      "isPublic": true,
+      "hasBookmark": true,
+      "hasSnapshot": false,
+      "img": "profile1",
+      "actions": {
+        "replies": 1,
+        "reacts": 23,
+        "shares": 24,
+        "starred": true
+      }
+    }
+  ]
+}
