@@ -42,3 +42,10 @@
   font-size: 8px;
   color: #001d52;
 }
+
+@media only screen and (max-width: 765px) {
+  /* For mobile phones: */
+  .popup {
+    visibility:hidden;
+  }
+}

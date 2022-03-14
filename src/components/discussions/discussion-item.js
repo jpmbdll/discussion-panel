@@ -32,7 +32,7 @@ const DiscussionItem = ({
       <div className={styles.body}>
         <p className={styles.msg}>{message} </p>
         {hasSnapshot && snapshot && (
-          <a target="_blank" href={require(`../../assets/${snapshot}`)}>
+          <a href={require(`../../assets/${snapshot}`)}>
             <img
               src={require(`../../assets/${snapshot}`)}
               alt={`${snapshot}`}

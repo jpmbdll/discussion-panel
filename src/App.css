@@ -40,3 +40,10 @@ p{
   margin: 0;
   padding: 0;
 }
+
+@media only screen and (max-width: 765px) {
+  /* For mobile phones: */
+  .open_btn {
+    visibility:hidden;
+  }
+}
